@@ -9,8 +9,8 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who Am I?</h1>
         <p>I'm a react front-end developer. I create responsive secure websites for my clients.</p>
-            <a href="/komal Resume.pdf"
-              download="komal Resume.pdf">
+            <a href="/Komal Kumari Resume.pdf"
+              download="Komal Kumari Resume.pdf">
             <button className="btn">Resume</button>
             </a>
       </div>
