@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="location">
                 <FaHome size={20} style={{color: '#fff', marginRight:"2rem"}}/>
                 <div>
-                    <p>lichi garden.</p>
+                    <p>The Land Of leechi.</p>
                     <p>Muzaffarpur Bihar.</p>
                 </div>
             </div>
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         <div className="right">
             <h4>About the company</h4>
-            <p>This is me virender a Front-end Developer.I
+            <p>This is me komal a Front-end Developer.I
                 am enjoy discussing new projects and design challenges.    
             </p>
             <div>
